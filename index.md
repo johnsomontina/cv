@@ -57,7 +57,7 @@
       <td>⭐⭐⭐⭐⭐</td>
     </tr>
     <tr>
-      <td>Sporty stuff</td>
+      <td>Sporty activities</td>
       <td>⭐⭐⭐⭐</td>
     </tr>
     <tr>
