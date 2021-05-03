@@ -1,0 +1,14 @@
+body {
+  background-color: #bac7a7;
+  font-family: "Palatino Linotype";
+}
+hr {
+  border-color: #e5e4cc;
+  border-style: dotted none none;
+  border-width: 10px;
+  height: 2px;
+  width: 10%;
+}
+h1, h2, h3, h4 {
+  color: #233714;
+}
